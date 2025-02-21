@@ -1,2 +1,2 @@
 # LLMs
-mine experiements during learning
+LLM Experiments Notebooks During Learning.
