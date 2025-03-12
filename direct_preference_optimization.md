@@ -192,3 +192,4 @@ The next-token prediction approach, similar to standard language model training 
 - [Original DPO Paper](https://arxiv.org/abs/2305.18290) by Rafailov et al.
 - [HuggingFace TRL Library](https://github.com/huggingface/trl) for implementing DPO
 - [Anthropic's Constitutional AI Paper](https://arxiv.org/abs/2212.08073) for context on alignment
+- [Huggingface tutorial](https://github.com/huggingface/smol-course/tree/main/2_preference_alignment) for DPO alignment
