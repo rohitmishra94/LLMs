@@ -237,3 +237,4 @@ The implicit KL regularization in the DPO loss function is a key component that 
 - [Direct Preference Optimization Explained In-depth](https://www.tylerromero.com/posts/2024-04-dpo/)
 - [Direct Preference Optimization ](https://medium.com/@joaolages/direct-preference-optimization-dpo-622fc1f18707)
 - [Direct Preference Optimization ](https://www.superannotate.com/blog/direct-preference-optimization-dpo)
+- [Youtube tutorial ](https://www.youtube.com/watch?v=hvGa5Mba4c8)
